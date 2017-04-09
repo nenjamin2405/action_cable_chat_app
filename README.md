@@ -11,6 +11,7 @@ rails db:seed
 rails test
 ```
 
+
 The base app doesn't use Action Cable, but rather is designed as the starting point for the tutorial. To see the state of the app at the *end* of the tutorial, switch to the `action-cable-reference` branch:
 
 ```
